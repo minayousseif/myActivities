@@ -4,7 +4,7 @@ is a simple pivotal tracker daily activities report built with Pivotal Tracker a
 
 ### Built With
 
-- ASP.Net MVC 4 and C#
+- ASP.Net MVC 5 and C#
 - ReactJS.Net 
 - Materialize CSS (a modern responsive front-end framework based on Material Design)
 - Pivotal Tracker API V5
