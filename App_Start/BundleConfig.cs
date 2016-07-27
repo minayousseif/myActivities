@@ -12,6 +12,7 @@ namespace myActivities
             bundles.Add(new StyleBundle("~/Content/css").Include(
                     "~/Content/materialize.css",
                     "~/Content/pickadate-blue.css",
+                    "~/Content/reactbeat.css",
                     "~/Content/site.css"));
 
             //React with Add-Ons
